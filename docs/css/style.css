@@ -1,0 +1,122 @@
+.bodybg{
+	background-color: #001727;
+    background-size: cover;
+    background-repeat: no-repeat;  
+}
+@media (min-width: 768px) {
+	.bodybg{
+		background-repeat: no-repeat;
+	}
+}
+
+.content_bg{
+	background-color: #485563;
+}
+
+.logo-img{
+	margin-top: 79px;
+}
+@media (min-width: 768px){
+	.logo-img{
+		
+	}
+}
+.title{
+	font-size: 36px;
+	color: #FFFFFF;
+	line-height: 42px;
+	margin-top: 35px;
+	font-family:Roboto-BoldCondensed;
+	letter-spacing: -0.87px;
+}
+@media (min-width: 768px) {
+	.title{
+		font-size: 36px;
+	}
+}
+.learn-ai-title{
+	font-size: 24px;
+	color:#ffffff;
+	margin-top: 95px;
+	margin-bottom: 60px;
+	font-family:Roboto-Regular； 
+}
+.aipy-btn{
+	/*width: 150px;
+	height: 55.2px;*/
+	background: #ffffff;
+	line-height: 25px;
+	font-family: PingFangSC-Light;
+	font-size: 18px;
+	color: #4A4A4A;
+	letter-spacing: 0;
+	/*margin-top: 58.6px;
+	padding: 10px;
+	display: block;
+	margin: 30px;
+	text-align: center;
+	float: left;*/
+}
+
+.guanyu{
+	color: #ffffff;
+	font-size: 18px;
+	margin-top: 60px;
+	line-height: 21px;
+}
+.guanyu-text-margin{
+	margin-right: 30px;
+	color: #ffffff;
+	font-family: Roboto-Regular;
+}
+.footer-text{
+	color: #9B9B9B;
+	font-size: 14px;
+	line-height: 20px; 
+	margin-top: 41px;
+	margin-bottom: 59px;
+	font-family: PingFangSC-Light;
+}
+.no-padding{
+	padding: 0;
+}
+.instruction-bg{
+	background:#0F212D;
+	margin-top: 44px;
+	padding-bottom: 44px;
+}
+.hr-line{
+	background: #5091C9;
+	margin-top: 66px;
+	width: 40px;
+	height: 4px;
+	float: left;
+}
+.instruction-title{
+	font-family: Roboto-Light;
+    font-size: 16px;
+    color: #FFFFFF;
+    line-height: 23px;
+    margin-top: 106px;
+    margin-bottom: 13px;
+}
+.instruction-content-text{
+	font-family: Roboto-Light;
+    font-size: 16px;
+    color: #FFFFFF;
+    line-height: 23px;
+    margin-top: 13px;
+    margin-bottom: 50px;
+}
+.friends-chaining{
+	margin-right: 10px;
+	vertical-align: baseline;
+}
+@media (min-width: 768px){
+	.friends-chaining{
+		margin-right: 20px;
+	}
+}
+.chaining-paragraph{
+	margin-top: 20px;
+}
